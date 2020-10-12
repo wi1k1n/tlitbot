@@ -1,0 +1,17 @@
+{
+  "name": "tlit-bot",
+  "version": "1.0.0",
+  "description": "TransLITerate Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":  "node index.js"
+  },
+  "keywords": [],
+  "author": "wi1k1n",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {}
+}
